@@ -1,2 +1,2 @@
-# Técnicas Avançadas de Progreamação
+# Técnicas Avançadas de Programação
 Universidade Federal do Amazonas
