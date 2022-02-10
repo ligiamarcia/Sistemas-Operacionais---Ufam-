@@ -1,2 +1,2 @@
-# Sistemas-Operacionais---Ufam-
-Disciplina ministrada pelo Professor Dr André na Universidade Federal do Amazonas
+# Técnicas Avançadas de Progreamação
+Universidade Federal do Amazonas
